@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main 
+ * main - main put function 
  * Return: 0
  */
 int main(void)
